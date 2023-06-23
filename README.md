@@ -1,2 +1,2 @@
 # atividades-Java
-particando JAVA
+Praticando JAVA
